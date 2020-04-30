@@ -1,11 +1,11 @@
-# Kemono-Michi-English
+# TCD-OFFICIAL-BOT-English
 
 # Deploy 
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 Fork by Marie, Credits to owner of Marie.
-Changes and moderation by @Dedsec_Deadman
+Changes and moderation by @ShinChanOP
 
 
 A modular telegram Python bot running on python3 with an sqlalchemy database.
@@ -13,16 +13,13 @@ A modular telegram Python bot running on python3 with an sqlalchemy database.
 Originally a simple group management bot with multiple admin features, it has evolved, becoming extremely modular and 
 simple to use.
 
-Can be found on telegram as [KemonoMichi](https://t.me/KemonoMichiBot).
+Can be found on telegram as [TCD OFFICIAL BOT](https://t.me/TCD_OFFICIAL_BOT).
 
-Kemono Michi and I are moderating a [support group](https://t.me/KemonoMichiSupport), where you can ask for help setting up your
+ShinChanOP and I are moderating a [support group](https://t.me/TCD_OFFICIAL_BOT_SUPPORT), where you can ask for help setting up your
 bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. Of course
 I'll also help when a database schema changes, and some table column needs to be modified/added. Note to maintainers that all schema changes will be found in the commit messages, and its their responsibility to read any new commits.
 
-Join the [news channel](https://t.me/KemonoMichiSupport) if you just want to stay in the loop about new features or
-announcements.
-
-Alternatively, [find me on telegram](https://t.me/Dedsec_Deadman)! (Keep all support questions in the support chat, where more people can help you.)
+Alternatively, [find me on telegram](https://t.me/ShinChanOP)! (Keep all support questions in the support chat, where more people can help you.)
 
 ## Starting the bot.
 

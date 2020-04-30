@@ -108,7 +108,6 @@ SUDO_USERS.add(889551592)
 
 
 
-updater = tg.Updater(TOKEN, workers=WORKERS)
 
 dispatcher = updater.dispatcher
 

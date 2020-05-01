@@ -109,7 +109,6 @@ SUDO_USERS.add(889551592)
 
 
 
-dispatcher = updater.dispatcher
 
 SUDO_USERS = list(SUDO_USERS)
 WHITELIST_USERS = list(WHITELIST_USERS)

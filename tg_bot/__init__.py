@@ -118,5 +118,3 @@ SUPPORT_USERS = list(SUPPORT_USERS)
 
 # make sure the regex handler can take extra kwargs
 
-if ALLOW_EXCL:
-    tg.CommandHandler = CustomCommandHandler
